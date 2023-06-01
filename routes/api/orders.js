@@ -5,6 +5,6 @@ const { validateOrderBody } = require('../../middlewares');
 
 const router = express.Router();
 
-router.get('/', validateOrderBody, addNewOrder);
+router.post('/', validateOrderBody, addNewOrder);
 
 module.exports = router;
