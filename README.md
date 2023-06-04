@@ -1,6 +1,6 @@
 # Jam's Delivery (Backend)
 
-Hurry up and place your order and we'll deliver it for you!
+Hurry up! Place your order and we'll deliver it for you!
 
 ## The server part is created using:
 - https://expressjs.com/
